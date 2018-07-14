@@ -28,6 +28,6 @@ public class CalculatorTest {
     @Test
     public  void test4(){
         int result = calculator.divide(4,0);
-        assertEquals(5,result);
+        assertEquals(4,result);
     }
 }

@@ -26,7 +26,7 @@ public class Calculator {
             return x / y;
 
 }
-        }
+
 
        /* Scanner input=new Scanner(System.in);
         System.out.println("Enter Number 1");
@@ -52,5 +52,6 @@ public class Calculator {
         }
     }*/
     }
+
 
 
